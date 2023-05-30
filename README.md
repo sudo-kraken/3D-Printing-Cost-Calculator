@@ -1,6 +1,8 @@
 ## 3D Print Cost Calculator
 The 3D Print Cost Calculator is a simple PowerShell script that helps you calculate the cost of 3D printing a particular item, including labour, material, equipment, and electricity costs, as well as a profit margin and shipping cost.
 
+Under releases there is a compiled executable version of the script.
+
 ### Inputs
 The script prompts for the following inputs:
 
