@@ -11,7 +11,7 @@ Amount of Material Consumed (g): The amount of material consumed in grams for th
 
 Hourly Labor Rate (£/hr): The rate charged per hour for labor.
 
-Labor Time (hr): The time in hours that labor was spent on the print.
+Labour Time (hr): The time in hours that labour was spent on the print.
 
 3D Printer Operation Charge (£/hr): The operational charge of the 3D printer per hour.
 
