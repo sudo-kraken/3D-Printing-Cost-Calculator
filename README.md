@@ -4,7 +4,11 @@ The 3D Print Cost Calculator is a simple PowerShell script that helps you calcul
 ### Inputs
 The script prompts for the following inputs:
 
+![image](https://github.com/Joeharrison94/3D-Printing-Cost-Calculator/assets/53116754/8444ca2a-8042-43e3-ad5a-999b8a5fc578)
+
 ``` 
+Currency (GBP, USD, EUR): The currency symbol for the final output.
+
 Material Price (£/kg): The price of the 3D printing material per kilogram.
 
 Amount of Material Consumed (g): The amount of material consumed in grams for the specific print.
@@ -25,11 +29,14 @@ Profit Margin (%): The desired profit margin as a percentage.
 
 Shipping Cost (£): The cost to ship the final product.
 
-Currency Symbol (GBP, USD, EUR): The currency symbol for the final output.
 ```
 
 ### Outputs
 The script calculates the cost of the material, labor, equipment, and electricity, then adds the profit margin and shipping cost to give the final total charge. The total charge is then displayed with the chosen currency symbol.
+
+![image](https://github.com/Joeharrison94/3D-Printing-Cost-Calculator/assets/53116754/9e6cc8f9-d647-4113-879f-a67fbdecce1c)
+
+![image](https://github.com/Joeharrison94/3D-Printing-Cost-Calculator/assets/53116754/3e0716d1-ab2d-4bfa-aebd-54ec6d15b9fc)
 
 ### Usage
 Simply run the script in PowerShell and input the required values when prompted. The final total charge for the 3D print will be displayed at the end.
