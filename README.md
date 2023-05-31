@@ -25,7 +25,7 @@ Print Time (hr): The time in hours it took to print the item.
 
 Local Electricity Cost (per kWh): The cost of electricity per kilowatt-hour.
 
-3D Printer Power Consumption (W): The power consumption of the 3D printer in watts.
+3D Printer Power Consumption (W): The power consumption of the 3D printer in watts per hour.
 
 Profit Margin (%): The desired profit margin as a percentage.
 
